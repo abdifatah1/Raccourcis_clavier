@@ -27,3 +27,16 @@ li{
     width: 80%;
     margin-left: 10%;
   }
+  @media screen and (max-width:600px) {
+  img {
+    display: none;
+    }
+    .ul{
+
+      border: 2px solid;
+      border-radius:90px;
+      padding-top: 10%;
+      width: 80%;
+      margin-left: 10%;
+    }
+}
