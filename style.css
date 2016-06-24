@@ -1,17 +1,29 @@
-.first_ul{
-  width: 30%;
-  border: 1px solid;
+body{
+  background:#BC8181;
 }
-.second_ul{
-  width: 30%;
-  border: 1px solid;
+img{
+  text-align: center;
+  width: 80%;
+  font-size:50px;
+  text-decoration: underline;
+  margin-left:10%;
+  padding:1% 0 1% 0;
 }
-.third_ul{
-  width: 30%;
-  border: 1px solid;
+h3{
+  text-align: center;
+  width: 80%;
+  margin-left: 10%;
 }
-.fourth_ul{
-  width: 30%;
-  border: 1px solid;
-}
-jhjkljkld
+li{
+  list-style-type: none;
+  text-align: center;
+  font-size: 20px;
+  }
+  .ul{
+
+    border: 2px solid;
+    border-radius:90px;
+    padding-top: 100px;
+    width: 80%;
+    margin-left: 10%;
+  }
